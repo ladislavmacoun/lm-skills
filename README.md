@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">az-skills</h1>
+  <h1 align="center">lm-skills</h1>
   <p align="center">
     A curated set of skills I use with my agents. Feel free to grab what's useful.
   </p>
@@ -18,8 +18,8 @@ Each skill is a small package of instructions and code that gives an agent a new
 ## Install
 
 ```bash
-git clone https://github.com/zvadaadam/az-skills.git
-cd az-skills
+git clone https://github.com/zvadaadam/lm-skills.git
+cd lm-skills
 ./scripts/install.sh
 ```
 
@@ -30,7 +30,7 @@ This connects the skills to your agent. You only need to do this once.
 Pull the latest and you're done — new and improved skills load automatically:
 
 ```bash
-cd az-skills
+cd lm-skills
 git pull
 ```
 
