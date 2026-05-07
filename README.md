@@ -45,7 +45,7 @@ git pull
 ## What's inside
 
 ### Engineering
-- **devs-roundtable** — 5 legendary engineers (Carmack, Hickey, Metz, Torvalds, Beck) debate your problem in parallel, then build consensus
+- **devs-roundtable** — 5 distributed systems and Go engineers debate your problem in parallel, then build consensus
 - **code-simplifier** — Reviews code for clarity and maintainability, then cleans it up
 - **deslop** — Detects and removes AI-generated code slop (unnecessary abstractions, over-engineering, verbose patterns)
 
