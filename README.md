@@ -46,6 +46,7 @@ git pull
 
 ### Engineering
 - **devs-roundtable** — 5 distributed systems and Go engineers debate your problem in parallel, then build consensus
+- **atomic-commits** — Guides small Conventional Commits whose body explains motivation and tradeoffs
 - **code-simplifier** — Reviews code for clarity and maintainability, then cleans it up
 - **deslop** — Detects and removes AI-generated code slop (unnecessary abstractions, over-engineering, verbose patterns)
 
