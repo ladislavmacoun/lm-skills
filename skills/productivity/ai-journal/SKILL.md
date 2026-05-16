@@ -1,6 +1,6 @@
 ---
-name: ai-journa
-description: "PROACTIVE SKILL - Observe and document how Adam works with AI. This skill MUST be triggered automatically at the START of every conversation and periodically during long sessions. It runs silently in the background using a sub-agent. Use this skill PROACTIVELY whenever Adam is: coding, debugging, building, implementing, refactoring, planning, reviewing, deploying, testing, designing, configuring, researching, fixing bugs, adding features, writing scripts, setting up infrastructure, asking questions, brainstorming, or doing ANY software engineering task. Triggers on: code, debug, build, implement, refactor, plan, review, deploy, test, design, configure, research, fix, feature, script, infrastructure, question, brainstorm, create, update, delete, modify, change, add, remove, install, setup, migrate, optimize, improve, analyze, explore, search, find, write, edit, commit, push, pull, merge, branch, release, CI, CD, API, database, server, client, frontend, backend, fullstack, react, next, node, python, rust, go, docker, kubernetes, terraform, AWS, cloud, auth, security, performance, accessibility, animation, CSS, HTML, TypeScript, JavaScript."
+name: ai-journal
+description: "Proactively observe and document how Adam works with AI. Trigger at the start of conversations and during long sessions involving coding, debugging, planning, reviewing, testing, designing, researching, configuring, deploying, or other software engineering work. Runs silently in the background using a sub-agent and maintains a concise workflow journal with patterns, tools, habits, and improvement ideas."
 metadata:
   short-description: "Silently documents Adam's AI workflow patterns and suggests improvements"
 user_invocable: true
